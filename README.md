@@ -1,6 +1,6 @@
 # Sentiment Analysis for Brand Monitoring
 
-An advanced **Sentiment Analysis System** to analyze social media data and provide actionable insights for brands. Combines **lexicon-based methods (VADER)** with **machine learning models (Naive Bayes, Logistic Regression, SVM)** for accurate sentiment classification.
+An advanced **Sentiment Analysis System** to analyze social media data and provide actionable insights for brands. Combines **lexicon-based methods ** with **machine learning models (Naive Bayes, Logistic Regression, SVM)** for accurate sentiment classification.
 
 ## Features
 - **Real-time Brand Monitoring:** Track mentions and sentiment across Twitter, Facebook, and Instagram.
